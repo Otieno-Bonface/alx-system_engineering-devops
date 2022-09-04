@@ -1,1 +1,1 @@
-Task 6. Welcome
+Task 7. Moving files
