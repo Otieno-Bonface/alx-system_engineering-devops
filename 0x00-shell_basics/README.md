@@ -1,1 +1,1 @@
-Command to change directory to the previous one
+Deleting the file Betty
