@@ -1,1 +1,1 @@
-This script displays the contents list of your current directory.
+Command to move to the home directory
