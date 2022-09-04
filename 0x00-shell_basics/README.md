@@ -1,1 +1,1 @@
-Command to move to the home directory
+This script display the current directory contents in the long format
