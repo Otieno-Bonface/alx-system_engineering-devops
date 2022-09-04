@@ -1,1 +1,1 @@
-Moving betty file from /tmp to /tmp/my_first_directory
+Command to change directory to the previous one
