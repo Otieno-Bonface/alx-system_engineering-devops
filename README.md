@@ -1,1 +1,1 @@
-Task 1. Confused Smiley
+3. What about 2?
