@@ -1,1 +1,1 @@
-Create a script that prints all possible combinations of two letter
+script that prints a number with two decimal places
