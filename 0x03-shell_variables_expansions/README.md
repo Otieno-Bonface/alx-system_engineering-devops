@@ -1,1 +1,1 @@
-11-binary_to_decimal
+Create a script that prints all possible combinations of two letter
